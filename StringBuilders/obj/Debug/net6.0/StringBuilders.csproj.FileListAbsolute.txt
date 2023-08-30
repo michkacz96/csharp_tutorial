@@ -1,0 +1,15 @@
+C:\Users\miikkael\Desktop\CS_tutorial\StringBuilders\bin\Debug\net6.0\StringBuilders.exe
+C:\Users\miikkael\Desktop\CS_tutorial\StringBuilders\bin\Debug\net6.0\StringBuilders.deps.json
+C:\Users\miikkael\Desktop\CS_tutorial\StringBuilders\bin\Debug\net6.0\StringBuilders.runtimeconfig.json
+C:\Users\miikkael\Desktop\CS_tutorial\StringBuilders\bin\Debug\net6.0\StringBuilders.dll
+C:\Users\miikkael\Desktop\CS_tutorial\StringBuilders\bin\Debug\net6.0\StringBuilders.pdb
+C:\Users\miikkael\Desktop\CS_tutorial\StringBuilders\obj\Debug\net6.0\StringBuilders.csproj.AssemblyReference.cache
+C:\Users\miikkael\Desktop\CS_tutorial\StringBuilders\obj\Debug\net6.0\StringBuilders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miikkael\Desktop\CS_tutorial\StringBuilders\obj\Debug\net6.0\StringBuilders.AssemblyInfoInputs.cache
+C:\Users\miikkael\Desktop\CS_tutorial\StringBuilders\obj\Debug\net6.0\StringBuilders.AssemblyInfo.cs
+C:\Users\miikkael\Desktop\CS_tutorial\StringBuilders\obj\Debug\net6.0\StringBuilders.csproj.CoreCompileInputs.cache
+C:\Users\miikkael\Desktop\CS_tutorial\StringBuilders\obj\Debug\net6.0\StringBuilders.dll
+C:\Users\miikkael\Desktop\CS_tutorial\StringBuilders\obj\Debug\net6.0\refint\StringBuilders.dll
+C:\Users\miikkael\Desktop\CS_tutorial\StringBuilders\obj\Debug\net6.0\StringBuilders.pdb
+C:\Users\miikkael\Desktop\CS_tutorial\StringBuilders\obj\Debug\net6.0\StringBuilders.genruntimeconfig.cache
+C:\Users\miikkael\Desktop\CS_tutorial\StringBuilders\obj\Debug\net6.0\ref\StringBuilders.dll

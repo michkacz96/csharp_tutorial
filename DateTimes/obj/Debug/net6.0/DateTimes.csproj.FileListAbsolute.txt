@@ -1,0 +1,15 @@
+C:\Users\miikkael\Desktop\CS_tutorial\DateTimes\bin\Debug\net6.0\DateTimes.exe
+C:\Users\miikkael\Desktop\CS_tutorial\DateTimes\bin\Debug\net6.0\DateTimes.deps.json
+C:\Users\miikkael\Desktop\CS_tutorial\DateTimes\bin\Debug\net6.0\DateTimes.runtimeconfig.json
+C:\Users\miikkael\Desktop\CS_tutorial\DateTimes\bin\Debug\net6.0\DateTimes.dll
+C:\Users\miikkael\Desktop\CS_tutorial\DateTimes\bin\Debug\net6.0\DateTimes.pdb
+C:\Users\miikkael\Desktop\CS_tutorial\DateTimes\obj\Debug\net6.0\DateTimes.csproj.AssemblyReference.cache
+C:\Users\miikkael\Desktop\CS_tutorial\DateTimes\obj\Debug\net6.0\DateTimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miikkael\Desktop\CS_tutorial\DateTimes\obj\Debug\net6.0\DateTimes.AssemblyInfoInputs.cache
+C:\Users\miikkael\Desktop\CS_tutorial\DateTimes\obj\Debug\net6.0\DateTimes.AssemblyInfo.cs
+C:\Users\miikkael\Desktop\CS_tutorial\DateTimes\obj\Debug\net6.0\DateTimes.csproj.CoreCompileInputs.cache
+C:\Users\miikkael\Desktop\CS_tutorial\DateTimes\obj\Debug\net6.0\DateTimes.dll
+C:\Users\miikkael\Desktop\CS_tutorial\DateTimes\obj\Debug\net6.0\refint\DateTimes.dll
+C:\Users\miikkael\Desktop\CS_tutorial\DateTimes\obj\Debug\net6.0\DateTimes.pdb
+C:\Users\miikkael\Desktop\CS_tutorial\DateTimes\obj\Debug\net6.0\DateTimes.genruntimeconfig.cache
+C:\Users\miikkael\Desktop\CS_tutorial\DateTimes\obj\Debug\net6.0\ref\DateTimes.dll

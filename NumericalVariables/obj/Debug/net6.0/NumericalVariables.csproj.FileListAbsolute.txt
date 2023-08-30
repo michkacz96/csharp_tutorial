@@ -1,0 +1,15 @@
+C:\Users\miikkael\Desktop\CS_tutorial\NumericalVariables\bin\Debug\net6.0\NumericalVariables.exe
+C:\Users\miikkael\Desktop\CS_tutorial\NumericalVariables\bin\Debug\net6.0\NumericalVariables.deps.json
+C:\Users\miikkael\Desktop\CS_tutorial\NumericalVariables\bin\Debug\net6.0\NumericalVariables.runtimeconfig.json
+C:\Users\miikkael\Desktop\CS_tutorial\NumericalVariables\bin\Debug\net6.0\NumericalVariables.dll
+C:\Users\miikkael\Desktop\CS_tutorial\NumericalVariables\bin\Debug\net6.0\NumericalVariables.pdb
+C:\Users\miikkael\Desktop\CS_tutorial\NumericalVariables\obj\Debug\net6.0\NumericalVariables.csproj.AssemblyReference.cache
+C:\Users\miikkael\Desktop\CS_tutorial\NumericalVariables\obj\Debug\net6.0\NumericalVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miikkael\Desktop\CS_tutorial\NumericalVariables\obj\Debug\net6.0\NumericalVariables.AssemblyInfoInputs.cache
+C:\Users\miikkael\Desktop\CS_tutorial\NumericalVariables\obj\Debug\net6.0\NumericalVariables.AssemblyInfo.cs
+C:\Users\miikkael\Desktop\CS_tutorial\NumericalVariables\obj\Debug\net6.0\NumericalVariables.csproj.CoreCompileInputs.cache
+C:\Users\miikkael\Desktop\CS_tutorial\NumericalVariables\obj\Debug\net6.0\NumericalVariables.dll
+C:\Users\miikkael\Desktop\CS_tutorial\NumericalVariables\obj\Debug\net6.0\refint\NumericalVariables.dll
+C:\Users\miikkael\Desktop\CS_tutorial\NumericalVariables\obj\Debug\net6.0\NumericalVariables.pdb
+C:\Users\miikkael\Desktop\CS_tutorial\NumericalVariables\obj\Debug\net6.0\NumericalVariables.genruntimeconfig.cache
+C:\Users\miikkael\Desktop\CS_tutorial\NumericalVariables\obj\Debug\net6.0\ref\NumericalVariables.dll

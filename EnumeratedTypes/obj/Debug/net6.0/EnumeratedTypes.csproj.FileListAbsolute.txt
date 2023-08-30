@@ -1,0 +1,15 @@
+C:\Users\miikkael\Desktop\CS_tutorial\EnumeratedTypes\bin\Debug\net6.0\EnumeratedTypes.exe
+C:\Users\miikkael\Desktop\CS_tutorial\EnumeratedTypes\bin\Debug\net6.0\EnumeratedTypes.deps.json
+C:\Users\miikkael\Desktop\CS_tutorial\EnumeratedTypes\bin\Debug\net6.0\EnumeratedTypes.runtimeconfig.json
+C:\Users\miikkael\Desktop\CS_tutorial\EnumeratedTypes\bin\Debug\net6.0\EnumeratedTypes.dll
+C:\Users\miikkael\Desktop\CS_tutorial\EnumeratedTypes\bin\Debug\net6.0\EnumeratedTypes.pdb
+C:\Users\miikkael\Desktop\CS_tutorial\EnumeratedTypes\obj\Debug\net6.0\EnumeratedTypes.csproj.AssemblyReference.cache
+C:\Users\miikkael\Desktop\CS_tutorial\EnumeratedTypes\obj\Debug\net6.0\EnumeratedTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miikkael\Desktop\CS_tutorial\EnumeratedTypes\obj\Debug\net6.0\EnumeratedTypes.AssemblyInfoInputs.cache
+C:\Users\miikkael\Desktop\CS_tutorial\EnumeratedTypes\obj\Debug\net6.0\EnumeratedTypes.AssemblyInfo.cs
+C:\Users\miikkael\Desktop\CS_tutorial\EnumeratedTypes\obj\Debug\net6.0\EnumeratedTypes.csproj.CoreCompileInputs.cache
+C:\Users\miikkael\Desktop\CS_tutorial\EnumeratedTypes\obj\Debug\net6.0\EnumeratedTypes.dll
+C:\Users\miikkael\Desktop\CS_tutorial\EnumeratedTypes\obj\Debug\net6.0\refint\EnumeratedTypes.dll
+C:\Users\miikkael\Desktop\CS_tutorial\EnumeratedTypes\obj\Debug\net6.0\EnumeratedTypes.pdb
+C:\Users\miikkael\Desktop\CS_tutorial\EnumeratedTypes\obj\Debug\net6.0\EnumeratedTypes.genruntimeconfig.cache
+C:\Users\miikkael\Desktop\CS_tutorial\EnumeratedTypes\obj\Debug\net6.0\ref\EnumeratedTypes.dll

@@ -1,0 +1,15 @@
+C:\Users\miikkael\Desktop\CS_tutorial\ErrorHandling\obj\Debug\net6.0\ErrorHandling.csproj.AssemblyReference.cache
+C:\Users\miikkael\Desktop\CS_tutorial\ErrorHandling\obj\Debug\net6.0\ErrorHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miikkael\Desktop\CS_tutorial\ErrorHandling\obj\Debug\net6.0\ErrorHandling.AssemblyInfoInputs.cache
+C:\Users\miikkael\Desktop\CS_tutorial\ErrorHandling\obj\Debug\net6.0\ErrorHandling.AssemblyInfo.cs
+C:\Users\miikkael\Desktop\CS_tutorial\ErrorHandling\obj\Debug\net6.0\ErrorHandling.csproj.CoreCompileInputs.cache
+C:\Users\miikkael\Desktop\CS_tutorial\ErrorHandling\bin\Debug\net6.0\ErrorHandling.exe
+C:\Users\miikkael\Desktop\CS_tutorial\ErrorHandling\bin\Debug\net6.0\ErrorHandling.deps.json
+C:\Users\miikkael\Desktop\CS_tutorial\ErrorHandling\bin\Debug\net6.0\ErrorHandling.runtimeconfig.json
+C:\Users\miikkael\Desktop\CS_tutorial\ErrorHandling\bin\Debug\net6.0\ErrorHandling.dll
+C:\Users\miikkael\Desktop\CS_tutorial\ErrorHandling\bin\Debug\net6.0\ErrorHandling.pdb
+C:\Users\miikkael\Desktop\CS_tutorial\ErrorHandling\obj\Debug\net6.0\ErrorHandling.dll
+C:\Users\miikkael\Desktop\CS_tutorial\ErrorHandling\obj\Debug\net6.0\refint\ErrorHandling.dll
+C:\Users\miikkael\Desktop\CS_tutorial\ErrorHandling\obj\Debug\net6.0\ErrorHandling.pdb
+C:\Users\miikkael\Desktop\CS_tutorial\ErrorHandling\obj\Debug\net6.0\ErrorHandling.genruntimeconfig.cache
+C:\Users\miikkael\Desktop\CS_tutorial\ErrorHandling\obj\Debug\net6.0\ref\ErrorHandling.dll

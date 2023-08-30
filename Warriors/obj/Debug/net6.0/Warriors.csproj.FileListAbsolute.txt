@@ -1,0 +1,15 @@
+C:\Users\miikkael\Desktop\CS_tutorial\Warriors\bin\Debug\net6.0\Warriors.exe
+C:\Users\miikkael\Desktop\CS_tutorial\Warriors\bin\Debug\net6.0\Warriors.deps.json
+C:\Users\miikkael\Desktop\CS_tutorial\Warriors\bin\Debug\net6.0\Warriors.runtimeconfig.json
+C:\Users\miikkael\Desktop\CS_tutorial\Warriors\bin\Debug\net6.0\Warriors.dll
+C:\Users\miikkael\Desktop\CS_tutorial\Warriors\bin\Debug\net6.0\Warriors.pdb
+C:\Users\miikkael\Desktop\CS_tutorial\Warriors\obj\Debug\net6.0\Warriors.csproj.AssemblyReference.cache
+C:\Users\miikkael\Desktop\CS_tutorial\Warriors\obj\Debug\net6.0\Warriors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miikkael\Desktop\CS_tutorial\Warriors\obj\Debug\net6.0\Warriors.AssemblyInfoInputs.cache
+C:\Users\miikkael\Desktop\CS_tutorial\Warriors\obj\Debug\net6.0\Warriors.AssemblyInfo.cs
+C:\Users\miikkael\Desktop\CS_tutorial\Warriors\obj\Debug\net6.0\Warriors.csproj.CoreCompileInputs.cache
+C:\Users\miikkael\Desktop\CS_tutorial\Warriors\obj\Debug\net6.0\Warriors.dll
+C:\Users\miikkael\Desktop\CS_tutorial\Warriors\obj\Debug\net6.0\refint\Warriors.dll
+C:\Users\miikkael\Desktop\CS_tutorial\Warriors\obj\Debug\net6.0\Warriors.pdb
+C:\Users\miikkael\Desktop\CS_tutorial\Warriors\obj\Debug\net6.0\Warriors.genruntimeconfig.cache
+C:\Users\miikkael\Desktop\CS_tutorial\Warriors\obj\Debug\net6.0\ref\Warriors.dll
